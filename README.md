@@ -31,9 +31,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto Habits é um app para que o usuário possa colocar em prática suas metas. Ajudando-o a rastrear hábitos.
+O projeto Habits é um app para que o usuário possa colocar em prática suas metas, ajudando-o a rastrear hábitos.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://andresa43.github.io/nlw-setup-imersao-dev/)
 
 ## 🔖 Layout
 
